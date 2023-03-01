@@ -51,6 +51,8 @@ public class Main {
             System.out.println("Год " + year + ", численность населения составляет " + totalPeople);
         }
 
+
+
     }
 
 
